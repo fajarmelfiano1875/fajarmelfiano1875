@@ -27,7 +27,7 @@ TENTANG SAYA
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 mau contack sama saya via email? boleh kok! [email](mailto:fajarmelfianoutama@gmail.com) :)
-- 💬 Atau kontak saya via [whatsapp](https://wa.me/+6285748839210?text=Misi%20bang)?
+- 💬 Atau kontak saya via [whatsapp](https://web.whatsapp.com/send?phone=%2B6285748839210&text=Misi+bang&type=phone_number&app_absent=0)?
 
 **languages and tools:**  
 
