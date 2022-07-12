@@ -67,7 +67,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 kalo mau donasi bisa kok tinggal klik gambar di bawah ini ya! 😄
 
 <a href="https://saweria.co/fajarmelfiano">
-  <img align="left" alt="Abhishek's Instagram" src="[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png](https://d1fdloi71mui9q.cloudfront.net/ftM9AOmhR5O918ozvSU4_cara-mendapatkan-uang-saweria-menarik.png)" />
+  <img align="left" alt="Klik DIsini" src="[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png](https://d1fdloi71mui9q.cloudfront.net/ftM9AOmhR5O918ozvSU4_cara-mendapatkan-uang-saweria-menarik.png)" />
 </a>
 
 
