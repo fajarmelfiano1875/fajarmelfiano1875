@@ -66,7 +66,9 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik gambar di bawah ini ya! 😄
 
-<img src="https://saweria.co/fajarmelfiano" alt="KlikDisini />
+<a href="https://saweria.co/fajarmelfiano">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png](https://d1fdloi71mui9q.cloudfront.net/ftM9AOmhR5O918ozvSU4_cara-mendapatkan-uang-saweria-menarik.png)" />
+</a>
 
 
 🚧 **my todoist stats:**
