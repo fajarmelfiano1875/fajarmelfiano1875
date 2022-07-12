@@ -66,7 +66,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik di bawah ini ya! 😄
 
-<p>Floating image sebelah kiri<img src="(https://user-images.githubusercontent.com/108466079/178431324-309c6c2c-2372-4f34-bff8-da1d3fc56371.png)" style="float:left;width:42px;height:42px;"></p>
+<img src="(https://user-images.githubusercontent.com/108466079/178431324-309c6c2c-2372-4f34-bff8-da1d3fc56371.png)">
 
 
 
