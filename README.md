@@ -66,7 +66,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik gambar di bawah ini ya! 😄
 
-<a href="https://www.buymeacoffee.com/fajarmelfi6" target="_blank"><img src="https://saweria.co/overlays/qr?streamKey=b68c2beeaa261c948012dc6517e7a5fb&backgroundColor=%23faae2b&barcodeColor=%23000&username=fajarmelfiano" width="150" ></a>
+<a href="[https://www.buymeacoffee.com/fajarmelfi6](https://saweria.co/overlays/qr?streamKey=b68c2beeaa261c948012dc6517e7a5fb&backgroundColor=%23faae2b&barcodeColor=%23000&username=fajarmelfiano)" target="_blank"><img src="https://saweria.co/overlays/qr?streamKey=b68c2beeaa261c948012dc6517e7a5fb&backgroundColor=%23faae2b&barcodeColor=%23000&username=fajarmelfiano" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
