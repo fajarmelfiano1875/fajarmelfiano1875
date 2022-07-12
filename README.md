@@ -66,7 +66,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik di bawah ini ya! 😄
 
-<img src="(https://user-images.githubusercontent.com/108466079/178431324-309c6c2c-2372-4f34-bff8-da1d3fc56371.png)">
+<img src="https://saweria.co/overlays/qr?streamKey=b68c2beeaa261c948012dc6517e7a5fb&backgroundColor=%23faae2b&barcodeColor=%23000&username=fajarmelfiano"/>
 
 
 
