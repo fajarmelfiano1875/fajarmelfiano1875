@@ -64,11 +64,6 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-kalo mau donasi bisa kok tinggal klik di bawah ini ya! 😄
-
-<img src=["https://telegra.ph/Saweria-07-12"](https://saweria.co/fajarmelfiano)/>
-
-
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
