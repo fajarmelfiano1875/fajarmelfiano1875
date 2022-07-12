@@ -66,7 +66,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik gambar di bawah ini ya! 😄
 
-<img src="https://saweria.co/fajarmelfiano" />
+<img src="https://saweria.co/fajarmelfiano" alt="KlikDisini />
 
 
 🚧 **my todoist stats:**
