@@ -66,7 +66,8 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik di bawah ini ya! 😄
 
-[![Grup WhatsApp]([![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Dd345UG5iZJL39o92JwGKj) )
+[gambar](https://user-images.githubusercontent.com/108466079/178430834-a5abd5d0-bc54-43c0-9bae-bf24e5c11b77.png)
+
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
