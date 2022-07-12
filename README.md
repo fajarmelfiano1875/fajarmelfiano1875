@@ -64,12 +64,9 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-kalo mau donasi bisa kok tinggal klik gambar di bawah ini ya! 😄
+kalo mau donasi bisa kok tinggal klik di bawah ini ya! 😄
 
-<a href="https://saweria.co/fajarmelfiano">
-  <img align="left" alt="Klik DIsini" width="66" src="[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png](https://d1fdloi71mui9q.cloudfront.net/ftM9AOmhR5O918ozvSU4_cara-mendapatkan-uang-saweria-menarik.png)" />
-</a>
-
+  Saweria [𝘒𝘭𝘪𝘬 𝘋𝘪𝘴𝘪𝘯](https://saweria.co/fajarmelfiano)
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
