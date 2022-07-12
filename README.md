@@ -66,7 +66,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik di bawah ini ya! 😄
 
-<img src="https://saweria.co/overlays/qr?streamKey=b68c2beeaa261c948012dc6517e7a5fb&backgroundColor=%23faae2b&barcodeColor=%23000&username=fajarmelfiano"/>
+<img src=["https://telegra.ph/Saweria-07-12"](https://saweria.co/fajarmelfiano)/>
 
 
 
