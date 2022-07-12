@@ -66,7 +66,8 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 kalo mau donasi bisa kok tinggal klik gambar di bawah ini ya! 😄
 
-Saweria : [Klik Dinisi](https://saweria.co/fajarmelfiano)
+Saweria : [Klik Dinisi](https://saweria.co/fajarmelfiano) <img src="https://d1fdloi71mui9q.cloudfront.net/ftM9AOmhR5O918ozvSU4_cara-mendapatkan-uang-saweria-menarik.png" />
+
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
